@@ -23,9 +23,9 @@
   --border-hover: rgba(10, 10, 10, 0.15);
 
   /* Accent — Updated dynamically from data.js */
-  --accent: #c8ff00;
-  --accent-dark: #a8d900;
-  --accent-glow: rgba(200, 255, 0, 0.15);
+  --accent: #00ff6a;
+  --accent-dark: #00d97b;
+  --accent-glow: rgba(30, 0, 255, 0.15);
   --accent-text: #0a0a0a;
 
   /* Typography */

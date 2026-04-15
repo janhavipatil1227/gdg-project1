@@ -12,9 +12,9 @@ const portfolioData = {
   // ----------------------------------------------------------
   // 🧑 PERSONAL INFO
   // ----------------------------------------------------------
-  name: "Chinmay Ingle",
-  firstName: "Chinmay",   // Used in the hero greeting
-  lastName: "Ingle",      // Displayed large in the hero section
+  name: "Janhavi Patil",
+  firstName: "Janhavi",   // Used in the hero greeting
+  lastName: "Patil",      // Displayed large in the hero section
   tagline: "Engineering Student & Aspiring Developer",
   resumeLink: "#",        // Link to your resume (Google Drive, etc.)
 
@@ -22,15 +22,15 @@ const portfolioData = {
   // 📖 ABOUT ME
   // ----------------------------------------------------------
   about: {
-    description: `I'm a Second Year Engineering student passionate about building 
+    description: `I'm a first Year Engineering student passionate about building 
 things that live on the internet. I love exploring new technologies, 
 writing clean code, and turning ideas into real-world projects. 
-When I'm not coding, you'll find me playing chess or reading tech blogs.`,
+When I'm not coding, you'll find me plaing badminton or reading tech blogs.`,
     highlights: [
       { label: "Location", value: "Pune, India" },
       { label: "University", value: "Savitribai Phule Pune University" },
       { label: "Branch", value: "Artificial Intelligence and Machine Learning" },
-      { label: "Year", value: "Second Year (SE)" },
+      { label: "Year", value: "First Year (FE)" },
     ],
   },
 
