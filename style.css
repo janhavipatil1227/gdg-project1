@@ -883,10 +883,6 @@ button {
   transition: width 1.2s var(--ease-out-expo);
 }
 
-.skill-card.in-view .skill-bar-fill {
-  /* Width set inline via JS */
-}
-
 /* ============================================================
    PROJECTS SECTION
    ============================================================ */
